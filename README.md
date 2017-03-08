@@ -1,2 +1,2 @@
 # boston_housing
-Udacity boston housing ML project
+A Udacity project using Machine Learning techniques to analyze housing prices in Boston, MA
